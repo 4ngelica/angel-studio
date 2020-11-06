@@ -8,7 +8,7 @@
     <a href="#AngelStudio_about">Sobre</a> • 
     <a href="#AngelStudio_techs">Tecnologias e Ferramentas</a> •  
     <a href="#AngelStudio_up">Upgrades</a> •
-   <a href="https://angel-studio.netlify.app/">Acesso</a>
+   <a href="#">Acesso (em breve)</a>
     <h3 align="center">ANGEL-STUDIO</h3>
 
   <p align="center">
