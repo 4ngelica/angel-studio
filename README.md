@@ -41,11 +41,11 @@ Minhas principais inspirações para a arte foram: Pixel art, Neon, Cyberpunk e 
 
 ## :pushpin: Upgrades
 <ul id="AngelStudio_up">
-    <li>Finalizar o design da Homepage :heavy_check_mark:</li>
-    <li>Melhorar a paleta de cores :heavy_check_mark:</li>
-    <li>Finalizar a seção do Porfolio (Implementação da janela #About para cada um dos projetos)</li> 
-    <li>Criar arte de capa para cada um dos itens do Portfolio</li> 
-    <li>Finalizar a seção de Contato</li> 
+    <li>Desenvolvimento da paleta de cores :heavy_check_mark:</li>
+    <li>Implementação de modal #About para cada projeto</li> 
+    <li>Criação de arte de capa para cada item do Portfolio</li> 
+    <li>Finalização da seção de Contato</li>
+    <li>Otimização</li>
 </ul>  
 
 
