@@ -32,6 +32,7 @@
 
 ## :pushpin: Tecnologias e Ferramentas
 <ul id="AngelStudio_techs">
+    <li>Laravel</li>
     <li>HTML5</li>
     <li>CSS3</li>
     <li>JavaScript</li> 
