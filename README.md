@@ -12,21 +12,22 @@
     <h3 align="center">ANGEL-STUDIO</h3>
 
   <p align="center">
-    Website pessoal para exposição do meu portfolio (em andamento).
+    Website pessoal para exposição do meu portfolio e blogging (em andamento).
   </p>
 
 
 ## :pushpin: Sobre
 <p align="justify" id="AngelStudio_about">
-   A motivação inicial para a implementação do meu site pessoal foi de exercitar conceitos de HTML, CSS e JavaScript e ter um local para registrar a minha trajetória de estudos em Front-end. Paralelamente, me envolvi em outros projetos e fui conhecendo novas ferramentas. Foi então que vi a possibilidade de compartilhar os meus projetos já realizados de uma forma acessível para qualquer pessoa, tanto nos aspectos visuais quanto funcionais.
-<br>
-   
-Minhas principais inspirações para a arte foram: Pixel art, Neon, Cyberpunk e VaporWave. Posso dizer que cada uma dessas estéticas está ligada de alguma forma com a minha personalidade e trajetória, e por isso foi algo muito divertido, porém desafiador.
+   A motivação inicial para a criação do meu site pessoal foi de exercitar conceitos de HTML, CSS e JavaScript e ter um local para registrar a minha trajetória de estudos no desenvolvimento web. Paralelamente, me envolvi em outros projetos e conheci novas ferramentas que me motivaram a manter esse projeto vivo e em constante evolução. Aproveitei a oportunidade para compartilhar os meus projetos e experiências de uma forma acessível para outras pessoas.
 <br>
 
-   O site também reúne meios de comunicação, disponibilizando um formulário de contato e os endereços das minhas redes sociais. Acredito que o feedback das pessoas é muito importante para qualquer pessoa em processo de aprendizagem, como é o meu caso. Por isso, gostaria muito de saber a sua opinião sobre esse projeto :smiling_face_with_three_hearts:.
+  Escolhi desenvolver esse projeto utlizando Laravel, um framework de código aberto bastante conhecido pela comunidade e um grande aliado do PHP. Utilizando o Laravel consegui organizar o meu projeto de uma forma intuitiva e estruturada e estou explorando deus diversos recursos que dispoem de uma ampla documentação.
+<br>
    
- 
+  Para desenvolver as telas utlizei o Figma - uma poderosa e acessível ferramenta de design - aliado à softwares de edição como Adobe Photoshop CC e Piskel. Minhas principais inspirações para a arte foram: pixel art, neon, cyberpunk e vaporWave. Posso dizer que cada uma dessas estéticas está ligada de alguma forma com a minha personalidade e trajetória, o que torna essa jornada muito interessante porém desafiadora, ao passo que me aventuro no ecossistema de UI/UX.
+<br>
+
+  Espero através desse projeto documentar cada passo que foi dado a fim de ajudar e inspirar outras garotas que estão caminhando nesse extenso universo do desenvolvimento. Acredito que o feedback é muito importante para qualquer pessoa em processo de aprendizagem, como é o meu caso. Por isso, gostaria muito de saber a sua opinião sobre esse projeto :smiling_face_with_three_hearts:. 
 </p>
 
 ## :pushpin: Tecnologias e Ferramentas
@@ -41,10 +42,9 @@ Minhas principais inspirações para a arte foram: Pixel art, Neon, Cyberpunk e 
 
 ## :pushpin: Upgrades
 <ul id="AngelStudio_up">
-    <li>Desenvolvimento da paleta de cores :heavy_check_mark:</li>
-    <li>Implementação de modal #About para cada projeto</li> 
-    <li>Criação de arte de capa para cada item do Portfolio</li> 
-    <li>Finalização da seção de Contato</li>
+    <li>Estruturação básica/setup do Laravel :heavy_check_mark:</li>
+    <li>Desenvolvimento da UI :heavy_check_mark:</li>
+    <li>Implementação das views</li>
     <li>Otimização</li>
 </ul>  
 
