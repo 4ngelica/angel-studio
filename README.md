@@ -12,7 +12,7 @@
     <h3 align="center">ANGEL-STUDIO</h3>
 
   <p align="center">
-    Website pessoal para exposição do meu portfolio e blogging (em andamento).
+    Website pessoal (em andamento).
   </p>
 
 
