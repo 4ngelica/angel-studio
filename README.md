@@ -24,7 +24,7 @@
   Escolhi desenvolver esse projeto utlizando Laravel, um framework de código aberto bastante conhecido pela comunidade e um grande aliado do PHP. Utilizando o Laravel consegui organizar o meu projeto de uma forma bem estruturada e estou explorando seus diversos recursos que dispoem de uma ampla documentação.
 <br>
    
-  Para desenvolver as telas utlizei o Figma - uma poderosa e acessível ferramenta de design - aliado à softwares de edição como Adobe Photoshop CC e Piskel. Minhas principais inspirações para a arte foram: pixel art, neon, cyberpunk e vaporWave. Posso dizer que cada uma dessas estéticas está ligada de alguma forma com a minha personalidade e trajetória, o que torna essa jornada muito interessante porém desafiadora, ao passo que me aventuro no ecossistema de UI/UX.
+  Para desenvolver as telas utilizei o Figma - uma poderosa e acessível ferramenta de design - aliado à softwares de edição como Adobe Photoshop CC e Piskel. Minhas principais inspirações para a arte foram: pixel art, neon, cyberpunk e vaporWave. Posso dizer que cada uma dessas estéticas está ligada de alguma forma com a minha personalidade e trajetória, o que torna essa jornada muito interessante porém desafiadora, ao passo que me aventuro no ecossistema de UI/UX.
 <br>
 
   Espero através desse projeto documentar cada passo que foi dado a fim de ajudar e inspirar outras garotas que estão caminhando nesse extenso universo do desenvolvimento. Acredito que o feedback é muito importante para qualquer pessoa em processo de aprendizagem, como é o meu caso. Por isso, gostaria muito de saber a sua opinião sobre esse projeto :smiling_face_with_three_hearts:. 
