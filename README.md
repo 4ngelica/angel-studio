@@ -21,7 +21,7 @@
    A motivação inicial para a criação do meu site pessoal foi de exercitar conceitos de HTML, CSS e JavaScript e ter um local para registrar a minha trajetória de estudos no desenvolvimento web. Paralelamente, me envolvi em outros projetos e conheci novas ferramentas que me motivaram a manter esse projeto vivo e em constante evolução. Aproveitei a oportunidade para compartilhar os meus projetos e experiências de uma forma acessível para outras pessoas.
 <br>
 
-  Escolhi desenvolver esse projeto utlizando Laravel, um framework de código aberto bastante conhecido pela comunidade e um grande aliado do PHP. Utilizando o Laravel consegui organizar o meu projeto de uma forma intuitiva e estruturada e estou explorando deus diversos recursos que dispoem de uma ampla documentação.
+  Escolhi desenvolver esse projeto utlizando Laravel, um framework de código aberto bastante conhecido pela comunidade e um grande aliado do PHP. Utilizando o Laravel consegui organizar o meu projeto de uma forma bem estruturada e estou explorando seus diversos recursos que dispoem de uma ampla documentação.
 <br>
    
   Para desenvolver as telas utlizei o Figma - uma poderosa e acessível ferramenta de design - aliado à softwares de edição como Adobe Photoshop CC e Piskel. Minhas principais inspirações para a arte foram: pixel art, neon, cyberpunk e vaporWave. Posso dizer que cada uma dessas estéticas está ligada de alguma forma com a minha personalidade e trajetória, o que torna essa jornada muito interessante porém desafiadora, ao passo que me aventuro no ecossistema de UI/UX.
