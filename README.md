@@ -36,6 +36,7 @@
     <li>HTML5</li>
     <li>CSS3</li>
     <li>JavaScript</li> 
+    <li>Tailwind</li>
     <li>Bootstrap</li> 
     <li>Adobe Photoshop CC</li> 
     <li>Piskel</li> 
