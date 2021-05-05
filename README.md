@@ -44,8 +44,8 @@
 
 ## :pushpin: Upgrades
 <ul id="AngelStudio_up">
-    <li>Estruturação básica/setup do Laravel :heavy_check_mark:</li>
     <li>Desenvolvimento da UI :heavy_check_mark:</li>
+    <li>Estruturação básica/setup do Laravel :heavy_check_mark:</li>
     <li>Implementação das views</li>
     <li>Otimização</li>
 </ul>  
