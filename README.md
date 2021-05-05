@@ -46,7 +46,10 @@
 <ul id="AngelStudio_up">
     <li>Desenvolvimento da UI :heavy_check_mark:</li>
     <li>Estruturação básica/setup do Laravel :heavy_check_mark:</li>
-    <li>Implementação das views</li>
+    <li>Deploy do ambiente dev :heavy_check_mark:</li>
+    <li>Implementação</li>
+    <li>Deploy em produção</li>
+    <li>Ativação da SSL</li>
     <li>Otimização</li>
 </ul>  
 
